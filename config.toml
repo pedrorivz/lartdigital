@@ -79,16 +79,16 @@ disqusShortname = ""
 #################### default parameters ################################
 [params]
 logo = "images/logo2.png"
-home = "Home"
+home = "Inicio"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Lart Digital"
+author = "phsantosit"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+# googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+#mobile = "0124857985320"
+#email = "d@email.com"
+location = "SP"
 # copyright
 copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
 
