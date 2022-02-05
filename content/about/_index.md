@@ -1,20 +1,10 @@
 ---
-title: "About Me"
-date: 2019-10-29T13:49:23+06:00
-draft: false
+title: L'Art Digital
+date: 2022-02-05T10:16:23+00:00
+image: images/author.jpg
+description: Conheça a L'Art Digital
 
-# image
-image: "images/author.jpg"
-
-# meta description
-description: "this is meta description"
-
-# type
-type : "about"
 ---
+#### **L'Art Digital** traz design exclusivo para seu negócio há 3 anos com excelência.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+_Sucesso no mercado de Design e Publicidade, a L'Art Digital fundada pela Jaqueline Orlandini, oferece ao seu negócio a oportunidade de obter uma identidade visual única e inspiradora para o seu público._
